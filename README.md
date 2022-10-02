@@ -12,4 +12,4 @@ https://milooy.github.io/cat-jjal-maker/
 
 ![KakaoTalk_Photo_2022-01-12-18-15-08](https://user-images.githubusercontent.com/3839771/149098759-6a7b4a16-5c7f-431e-8fb5-cc750fd527a2.jpeg)
 
-(https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbobB9S%2FbtrNzGfzHpC%2Ff0DyL1Var4zHuW9bDeoTu1%2Fimg.png)
+!(https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbobB9S%2FbtrNzGfzHpC%2Ff0DyL1Var4zHuW9bDeoTu1%2Fimg.png)
