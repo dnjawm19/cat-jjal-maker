@@ -11,5 +11,3 @@ https://milooy.github.io/cat-jjal-maker/
 인프런의 [만들면서 배우는 리액트: 기초](https://www.inflearn.com/course/%EB%A7%8C%EB%93%A4%EB%A9%B4%EC%84%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EA%B8%B0%EC%B4%88) 강의에서 만드는 토이 프로젝트입니다.
 
 ![KakaoTalk_Photo_2022-01-12-18-15-08](https://user-images.githubusercontent.com/3839771/149098759-6a7b4a16-5c7f-431e-8fb5-cc750fd527a2.jpeg)
-
-![image](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbobB9S%2FbtrNzGfzHpC%2Ff0DyL1Var4zHuW9bDeoTu1%2Fimg.png)
